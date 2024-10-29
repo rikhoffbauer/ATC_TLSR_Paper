@@ -29,5 +29,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: built-firmware
-        path: Firmware/out
+        path: Firmware/ATC_Paper.bin
 
